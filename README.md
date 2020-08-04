@@ -1,2 +1,2 @@
 # bloodbank
-created using react.js express node.js and postgresql
+created using REACT.js EXPRESS NODE and POSTGRESQL
